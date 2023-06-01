@@ -21,3 +21,4 @@ print(my_bit_array.bit_array)
 
 bit_value = my_bit_array.getBit(4)
 print(bit_value) 
+
