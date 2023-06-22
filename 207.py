@@ -19,5 +19,4 @@ print(unique_elements)
 
         
 # RESULT
-# ayodeleseriki@MacBook-Pro-2 Leetcode % python3 elements_in_l1_also_in_l2.py
 # [4.8, 5, 8]
