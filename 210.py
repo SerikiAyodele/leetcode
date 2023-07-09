@@ -17,11 +17,3 @@ def validParenthesis(s: list[list]) -> list[list]:
 s = "()[]{}"
 num = validParenthesis(s)
 print(num)
-
-
-
-
-
-
-
-
